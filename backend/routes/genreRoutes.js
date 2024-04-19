@@ -15,4 +15,4 @@ router.route('/:id').delete(authenticate, authorizeAdmin, removeGenre)
 router.route('/genres').get(listGenres)
 router.route('/:id').get(readGenre)
 
-export default router; 
+export default router;
