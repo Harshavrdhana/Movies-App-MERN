@@ -82,6 +82,7 @@ export const {
   useDeleteCommentMutation,
   useGetSpecificMovieQuery,
   useUploadImageMutation,
+  useDeleteMovieMutation,
   //
   useGetNewMoviesQuery,
   useGetTopMoviesQuery,
